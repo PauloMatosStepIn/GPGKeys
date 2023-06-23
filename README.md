@@ -35,7 +35,7 @@ gpg --edit-key YourEmail@mail.com
 	save
 ```
 
-Export PUB Key to clipboard:
+Export PUB Key:
 
 **to console:**
 
