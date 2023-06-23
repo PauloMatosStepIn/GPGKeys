@@ -1,13 +1,14 @@
 ### GPG Key : Proof of Concept to **Verified Commits on GitHub**
 
-ChckList to create a repo with implementation of Verified Commits
+CheckList to create a repo on GitHub with implementation of Verified Commits
 
 We will make use of **GPG Keys**
 
 The following commands are executed on Windows **GitBash** Console
 
-**Help on GPG command:**
+We will make use of **VsCode** (Optional)
 
+**Help on GPG command:**
 ```
 gpg --help
 ```
